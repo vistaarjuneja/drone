@@ -1,0 +1,4 @@
+===== monitoring started at 2025-09-10T04:50:52+00:00 =====
+proc_log=/workspace/monitoring/process.log
+net_full=/workspace/monitoring/net_full.log net_http=/workspace/monitoring/net_http.log
+interval=2s using=cat /proc/net/tcp /proc/net/tcp6
