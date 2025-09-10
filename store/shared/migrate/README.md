@@ -23,7 +23,7 @@ cd togo
 go get github.com/bradrydzewski/togo
 ```
 
-bubbles
+marbles
 
 ### Generating go DDL
 
