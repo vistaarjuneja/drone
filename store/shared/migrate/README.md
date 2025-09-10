@@ -23,6 +23,8 @@ cd togo
 go get github.com/bradrydzewski/togo
 ```
 
+bubbles
+
 ### Generating go DDL
 
 Enter the desired database's implementation folder, and run the following. It will update the `ddl_gen.go` file.
